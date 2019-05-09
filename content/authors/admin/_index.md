@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Stephen Chavez
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Cyber Security Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Cyber security researcher; Takes world adventures with friends. Focusing on malware development and analysis.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Information Security
+- Computer Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Computer Science
+    institution: Metropolitan State University of Denver
+    year: 2016
+  - course: Nanodegree in Mobile Web Specialist
+    institution: Udacity
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +44,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/redragonx
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/redragonx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I specialize in information security and software engineering. As such, I like to work on interesting problems that improve my life and as well as others that may not be able to ﬁx themselves. One such interesting problem that I worked on is making my power-wheelchair semi autonomous. This little project seemed insigniﬁcant at the time, but it turned out to have far-reaching possibilities in technology. This helped me to ﬁnd that I have a passion and a desire to help secure medical devices.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The research opened many doors for me in multiple areas like information security, medical device hacking, and help me to earn presenting spots in globally recognized conferences. Before graduating from university, my project was turned into an open sourced framework to work with a closed and proprietary protocol R-Net that earned international recognition.
