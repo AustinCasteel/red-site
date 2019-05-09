@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2016-06-01"
-  date_end = "2016-12-1"
+  date_end = "2016-12-01"
   description = """SpiderOak’s new product Semaphor uses my libsodium-go library. Semaphor is an open sourced alternative for Slack"""
 
 [[experience]]
