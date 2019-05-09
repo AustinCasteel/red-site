@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Geekpwn 2016 Presenter"
   url = "http://2016.geekpwn.org"
   certificate_url = "http://bit.ly/2hTJELi"
-  date_start = "2016-10-1"
+  date_start = "2016-10-01"
   date_end = ""
   description = "I presented more attacks and overall security of power-wheelchairs"
 
